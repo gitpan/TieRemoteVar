@@ -1,0 +1,24 @@
+Changes
+Constant/Changes
+Constant/Constant.pm
+Constant/MANIFEST
+Constant/Makefile.PL
+Constant/README
+MANIFEST			This list of files
+Makefile.PL
+README
+Tie/Changes
+Tie/MANIFEST
+Tie/Makefile.PL
+Tie/README
+Tie/Tie.pm
+RemoteVar.pm
+eg/client_rd.pl
+eg/client_wr.pl
+eg/server.pl
+test.pl
+Callback/Callback.pm
+Callback/Changes
+Callback/Makefile.PL
+Callback/MANIFEST
+Callback/README

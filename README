@@ -1,0 +1,22 @@
+Tie/RemoteVar version 0.01
+==========================
+
+Tie::RemoteVar is a powerful tool for users to share variables across processes or hosts. Users can skip irksome coding and get down to work no sweat.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 xern <xern@cpan.org>
+
+This module is free software; you can redistribute it or modify it under the same terms as Perl itself.
+
+
+

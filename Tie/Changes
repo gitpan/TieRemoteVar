@@ -1,0 +1,6 @@
+Revision history for Perl extension Tie::RemoteVar::Tie.
+
+0.01  Fri Feb  7 02:53:21 2003
+	- original version; created by h2xs 1.21 with options
+		-XA Tie::RemoteVar::Tie
+
